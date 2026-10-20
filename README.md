@@ -1,1 +1,1 @@
-# MCFgit
+# MCF
